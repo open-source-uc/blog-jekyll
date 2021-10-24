@@ -1,16 +1,9 @@
 - title: Email
-  url: hello-world@osuc.dev
+  url: mailto:zivong@protonmail.com
   icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com/OpensourceUc
+  url: https://twitter.com/zivong91
   icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/open-source-uc
+  url: https://github.com/zivong
   icon: fab fa-github
-- title: Instagram
-  url: https://www.instagram.com/opensource_euc/
-  icon: fa-instagram
-- title: LinkedIn
-  url: https://www.linkedin.com/company/open-source-euc
-  icon: fa-linkedin
-
