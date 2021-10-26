@@ -2,15 +2,18 @@ title: OpenSource UC - Blog
 tagline: Blog de noticias y contenido
 
 author:
-  name: Song-Zi Vong
-  url: https://twitter.com/zivong91
+  name: Axel Sepulveda
+  url: https://twitter.com/
 
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-
+  - jekyll-remote-theme
+  
 paginate: 3
+
+remote_theme: zivong/jekyll-theme-hydure
 
 tags_path: /tags/
 categories_path: /categories/
