@@ -1,6 +1,8 @@
 title: OpenSource UC - Blog
 tagline: Blog de noticias y contenido
 
+exclude: [path vendor]
+
 author:
   name: Axel Sepulveda
   url: https://twitter.com/
