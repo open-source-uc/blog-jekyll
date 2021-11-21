@@ -1,3 +1,13 @@
+---
+layout: post
+title: Redes Sociales
+author: [Axel Sepúlveda]
+category: [RRSS]
+tags: [jekyll, osuc, dev, rrss]
+---
+
+Sigue nuestras redes sociales:
+
 - title: Email
   url: hello-world@osuc.dev
   icon: fas fa-envelope
@@ -13,9 +23,6 @@
 - title: LinkedIn
   url: https://www.linkedin.com/company/open-source-euc
   icon: fab fa-linkedin
-- title: Discord
-  url: https://www.discord.com
-  icon: fab fa-discord
-- title: Telegram
-  url: https://www.telegram.com
-  icon: fab fa-telegram  
+
+- Telgram
+- Discord

@@ -9,7 +9,11 @@ layout: default
 
   {% if page.type == "years" %}
     {% include archive-by-years.html %}
-  {% else %}
+  {% elsif page.type == "categories" %}   
+    {% include archive-by-tagories.html %} 
+  {% elsif page.type == "authors" %}
+    {% include archive-by-authors.html %}
+  {% else  %}
     {% include archive-by-tagories.html %}
   {% endif %}
 </article>
