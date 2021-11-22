@@ -1,4 +1,4 @@
-{% assign taxonomies = site.posts | group_by_exp: "post", "post.authors" %}
+{% assign taxonomies = site.posts | group_by_exp: "post", "post.author" %}
 
 <!-- WIP -->
 <div class="taxonomies-wrapper">
