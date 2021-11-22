@@ -1,21 +1,21 @@
 - title: Email
   url: hello-world@osuc.dev
-  icon: fas fa-envelope
+  icon: fas fa-envelope fa-lg
 - title: Twitter
   url: https://twitter.com/OpensourceUc
-  icon: fab fa-twitter
+  icon: fab fa-twitter fa-lg
 - title: GitHub
   url: https://github.com/open-source-uc
-  icon: fab fa-github
+  icon: fab fa-github fa-lg
 - title: Instagram
   url: https://www.instagram.com/opensource_euc/
-  icon: fab fa-instagram
+  icon: fab fa-instagram fa-lg
 - title: LinkedIn
   url: https://www.linkedin.com/company/open-source-euc
-  icon: fab fa-linkedin
+  icon: fab fa-linkedin fa-lg
 - title: Discord
   url: https://www.discord.com
-  icon: fab fa-discord
+  icon: fab fa-discord fa-lg
 - title: Telegram
   url: https://www.telegram.com
-  icon: fab fa-telegram  
+  icon: fab fa-telegram fa-lg
