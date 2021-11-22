@@ -4,8 +4,8 @@ tagline: Blog y noticias
 exclude: [path vendor]
 
 author:
-  name: Axel Sepulveda
-  url: https://twitter.com/
+  name: Axel Sepulveda & OpenSource UC
+  url: https://github.com/open-source-uc
 
 plugins:
   - jekyll-feed

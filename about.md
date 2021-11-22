@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+## OpenSource UC
+
+Somos una comunidad de estudiantes de la Universidad Católica de Chile trabajando juntos y juntas para crear y mantener proyectos bacanes y de código abierto. Nuestra misión es formar una comunidad apasionada por el open source y promover la colaboración en diversos proyectos, de distinto ámbito, tamaño y alcance 
+
+## About Hydure Theme
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
